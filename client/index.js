@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-class App extends Component {
+export class App extends Component {
   render() {
     return (
       <div>Component App</div>
